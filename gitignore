@@ -1,0 +1,17 @@
+# Credentials - never commit these
+.env
+*.pem
+*.key
+
+# Logs
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+env/
+
+# OS
+.DS_Store
